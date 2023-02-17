@@ -1,5 +1,6 @@
 # snake python tutorial
 # testing after doing git pull rebase
+# testing again only doing git push 
 
 import math
 import random
